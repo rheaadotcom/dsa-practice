@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rheaadotcom/dsa-practice/tree/master/0031-next-permutation) |
+| [0078-subsets](https://github.com/rheaadotcom/dsa-practice/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/rheaadotcom/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rheaadotcom/dsa-practice/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rheaadotcom/dsa-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
