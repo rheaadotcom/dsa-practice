@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rheaadotcom/dsa-practice/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/rheaadotcom/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0090-subsets-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -36,6 +37,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/rheaadotcom/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rheaadotcom/dsa-practice/tree/master/0131-palindrome-partitioning) |
