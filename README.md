@@ -10,6 +10,7 @@
 | [0078-subsets](https://github.com/rheaadotcom/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0090-subsets-ii) |
 | [1920-build-array-from-permutation](https://github.com/rheaadotcom/dsa-practice/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -86,4 +87,5 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/rheaadotcom/dsa-practice/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
