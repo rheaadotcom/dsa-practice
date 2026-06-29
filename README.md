@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/rheaadotcom/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0090-subsets-ii) |
+| [0414-third-maximum-number](https://github.com/rheaadotcom/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/rheaadotcom/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/rheaadotcom/dsa-practice/tree/master/1672-richest-customer-wealth) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/rheaadotcom/dsa-practice/tree/master/1672-richest-customer-wealth) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/rheaadotcom/dsa-practice/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
