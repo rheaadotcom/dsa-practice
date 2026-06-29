@@ -16,6 +16,7 @@
 | [1920-build-array-from-permutation](https://github.com/rheaadotcom/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rheaadotcom/dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rheaadotcom/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -71,6 +72,7 @@
 | [0131-palindrome-partitioning](https://github.com/rheaadotcom/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rheaadotcom/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rheaadotcom/dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rheaadotcom/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/rheaadotcom/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rheaadotcom/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
 | ------- |
