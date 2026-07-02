@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/rheaadotcom/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rheaadotcom/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/rheaadotcom/dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/rheaadotcom/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rheaadotcom/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rheaadotcom/dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rheaadotcom/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -103,6 +105,7 @@
 ## Counting
 |  |
 | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/rheaadotcom/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
