@@ -7,6 +7,7 @@
 | [0031-next-permutation](https://github.com/rheaadotcom/dsa-practice/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/rheaadotcom/dsa-practice/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/rheaadotcom/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0090-subsets-ii) |
 | [0238-product-of-array-except-self](https://github.com/rheaadotcom/dsa-practice/tree/master/0238-product-of-array-except-self) |
@@ -53,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/rheaadotcom/dsa-practice/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/rheaadotcom/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rheaadotcom/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
