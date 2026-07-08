@@ -70,6 +70,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/rheaadotcom/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rheaadotcom/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Memoization
 |  |
 | ------- |
