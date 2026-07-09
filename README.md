@@ -22,6 +22,7 @@
 | [0724-find-pivot-index](https://github.com/rheaadotcom/dsa-practice/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/rheaadotcom/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0922-sort-array-by-parity-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0989-add-to-array-form-of-integer](https://github.com/rheaadotcom/dsa-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/rheaadotcom/dsa-practice/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rheaadotcom/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -60,6 +61,7 @@
 | [0525-contiguous-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rheaadotcom/dsa-practice/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1991-find-the-middle-index-in-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -99,6 +101,7 @@
 | [0523-continuous-subarray-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rheaadotcom/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rheaadotcom/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
