@@ -26,6 +26,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0989-add-to-array-form-of-integer](https://github.com/rheaadotcom/dsa-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/rheaadotcom/dsa-practice/tree/master/1089-duplicate-zeros) |
+| [1248-count-number-of-nice-subarrays](https://github.com/rheaadotcom/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rheaadotcom/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -64,6 +65,7 @@
 | [0724-find-pivot-index](https://github.com/rheaadotcom/dsa-practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/rheaadotcom/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1991-find-the-middle-index-in-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -76,6 +78,7 @@
 | [0523-continuous-subarray-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/rheaadotcom/dsa-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/rheaadotcom/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/rheaadotcom/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rheaadotcom/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -105,6 +108,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/rheaadotcom/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rheaadotcom/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rheaadotcom/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -165,6 +169,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/rheaadotcom/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/rheaadotcom/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 ## Design
 |  |
 | ------- |
