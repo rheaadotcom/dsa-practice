@@ -37,6 +37,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rheaadotcom/dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rheaadotcom/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2574-left-and-right-sum-differences](https://github.com/rheaadotcom/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -68,6 +69,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/rheaadotcom/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/rheaadotcom/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
