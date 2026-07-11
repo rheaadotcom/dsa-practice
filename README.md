@@ -119,6 +119,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/rheaadotcom/dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rheaadotcom/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rheaadotcom/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rheaadotcom/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rheaadotcom/dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -172,6 +173,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/rheaadotcom/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rheaadotcom/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rheaadotcom/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Design
 |  |
 | ------- |
