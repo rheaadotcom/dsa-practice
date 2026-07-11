@@ -5,16 +5,15 @@ public:
     }
     int maxVowels(string s, int k) {
         int n=s.length();
-        int left=0,cnt=0,maxCnt=0;
+        int l=0,maxCnt=0,cnt=0;
+        for(int r=0;r<n;r++){
+            if(isVowel(s[r])) cnt++;
 
-        for(int right=0;right<n;right++){
-            if(isVowel(s[right])) cnt++;
-
-            if((right-left+1)==k){
-                maxCnt=max(maxCnt,cnt);
-                if(isVowel(s[left])) cnt--;
-                left++;
-            }   
+            if((r-l+1)==k){
+            maxCnt=max(maxCnt,cnt);
+            if(isVowel(s[l])) cnt--;
+            l++;
+        }
         }
         return maxCnt;
     }
