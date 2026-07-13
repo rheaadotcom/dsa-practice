@@ -187,4 +187,8 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/rheaadotcom/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/rheaadotcom/dsa-practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
