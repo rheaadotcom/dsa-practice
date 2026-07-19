@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/rheaadotcom/dsa-practice/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/rheaadotcom/dsa-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rheaadotcom/dsa-practice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0090-subsets-ii) |
 | [0238-product-of-array-except-self](https://github.com/rheaadotcom/dsa-practice/tree/master/0238-product-of-array-except-self) |
@@ -105,6 +106,7 @@
 | [0040-combination-sum-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/rheaadotcom/dsa-practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rheaadotcom/dsa-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rheaadotcom/dsa-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rheaadotcom/dsa-practice/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
@@ -129,6 +131,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rheaadotcom/dsa-practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/rheaadotcom/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rheaadotcom/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -166,6 +169,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rheaadotcom/dsa-practice/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/rheaadotcom/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [1672-richest-customer-wealth](https://github.com/rheaadotcom/dsa-practice/tree/master/1672-richest-customer-wealth) |
 ## Sorting
@@ -215,4 +219,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rheaadotcom/dsa-practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
