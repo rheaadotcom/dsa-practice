@@ -37,12 +37,8 @@ public:
 }   
     vector<vector<string>> solveNQueens(int n) {
       vector<vector<string>>ans;
-      vector<string>board(n);
-      string s(n,'.');
-
-      for(int i=0;i<n;i++){
-        board[i]=s;
-      }
+      vector<string>board(n,string(n,'.'));
+    
       solve(0,board,ans,n);  
       return ans;
     }
