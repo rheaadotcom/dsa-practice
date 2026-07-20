@@ -1,45 +1,43 @@
 class Solution {
 public:
-    bool isSafe(int row,int col,vector<string>& board,int n){
-        int drow=row;
-        int dcol=col;
-
-        while(row>=0 && col>=0){
-            if(board[row][col]=='Q') return false;
-            row--,col--;
-        }
-        row=drow;
-        col=dcol;
-        while(col>=0){
-            if(board[row][col]=='Q') return false;
-            col--;
-        }
-        row=drow;
-        col=dcol;
-        while(row<n && col>=0){
-            if(board[row][col]=='Q') return false;
-            row++,col--;
-        }
-        return true;
+vector<vector<string>>ans;
+int N;
+    vector<vector<string>> solveNQueens(int n) {
+        N=n;
+       vector<string>board(n,string(n,'.'));
+       
+       solve(board,0); 
+       return ans;
     }
-    void solve(int col,vector<string>& board,vector<vector<string>>& ans,int n ){
-        if(col==n){
+void solve(vector<string>& board,int row){
+    if(row>=N){
         ans.push_back(board);
         return;
-        }
-        for(int row=0;row<n;row++){
-            if(isSafe(row,col,board,n)){
-            board[row][col]='Q';
-            solve(col+1,board,ans,n);
-            board[row][col]='.';
+    }
+    for(int col=0;col<N;col++){
+        if(isValid(board,row,col)){
+        board[row][col]='Q';
+        solve(board,row+1);
+        board[row][col]='.';
         }
     }
-}   
-    vector<vector<string>> solveNQueens(int n) {
-      vector<vector<string>>ans;
-      vector<string>board(n,string(n,'.'));
-    
-      solve(0,board,ans,n);  
-      return ans;
+}
+bool isValid(vector<string>& board,int row,int col){
+    //check for upwards
+    for(int i=row-1;i>=0;i--){
+        if(board[i][col]=='Q')
+        return false;
     }
+    //check for left diagonals
+    for(int i=row-1,j=col-1;i>=0 && j>=0;i--,j--){
+       if(board[i][j]=='Q')
+        return false;
+    }
+    //check for right diagonals
+    for(int i=row-1,j=col+1;i>=0 && j<N;i--,j++){
+        if(board[i][j]=='Q')
+        return false;
+    }
+    return true;
+}
 };
