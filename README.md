@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0090-subsets-ii) |
 | [0238-product-of-array-except-self](https://github.com/rheaadotcom/dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/rheaadotcom/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0414-third-maximum-number](https://github.com/rheaadotcom/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/rheaadotcom/dsa-practice/tree/master/0485-max-consecutive-ones) |
@@ -148,6 +149,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -177,6 +179,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rheaadotcom/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rheaadotcom/dsa-practice/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/rheaadotcom/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [1672-richest-customer-wealth](https://github.com/rheaadotcom/dsa-practice/tree/master/1672-richest-customer-wealth) |
 ## Sorting
@@ -236,5 +239,6 @@
 | ------- |
 | [0069-sqrtx](https://github.com/rheaadotcom/dsa-practice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rheaadotcom/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rheaadotcom/dsa-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
