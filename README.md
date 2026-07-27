@@ -30,6 +30,7 @@
 | [0905-sort-array-by-parity](https://github.com/rheaadotcom/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0962-maximum-width-ramp](https://github.com/rheaadotcom/dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0989-add-to-array-form-of-integer](https://github.com/rheaadotcom/dsa-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rheaadotcom/dsa-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -61,6 +62,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/rheaadotcom/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0922-sort-array-by-parity-ii) |
+| [0962-maximum-width-ramp](https://github.com/rheaadotcom/dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [1089-duplicate-zeros](https://github.com/rheaadotcom/dsa-practice/tree/master/1089-duplicate-zeros) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rheaadotcom/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -240,11 +242,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0962-maximum-width-ramp](https://github.com/rheaadotcom/dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/rheaadotcom/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0962-maximum-width-ramp](https://github.com/rheaadotcom/dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Depth-First Search
 |  |
