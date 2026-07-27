@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rheaadotcom/dsa-practice/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/rheaadotcom/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0039-combination-sum) |
@@ -57,6 +58,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rheaadotcom/dsa-practice/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -200,6 +202,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/rheaadotcom/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
