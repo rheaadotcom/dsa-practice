@@ -22,6 +22,7 @@
 | [0485-max-consecutive-ones](https://github.com/rheaadotcom/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rheaadotcom/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/rheaadotcom/dsa-practice/tree/master/0724-find-pivot-index) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/rheaadotcom/dsa-practice/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/rheaadotcom/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/rheaadotcom/dsa-practice/tree/master/1089-duplicate-zeros) |
@@ -129,6 +131,7 @@
 | [0037-sudoku-solver](https://github.com/rheaadotcom/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0523-continuous-subarray-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/rheaadotcom/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -194,6 +197,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/rheaadotcom/dsa-practice/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/rheaadotcom/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rheaadotcom/dsa-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -249,5 +253,6 @@
 | [0069-sqrtx](https://github.com/rheaadotcom/dsa-practice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rheaadotcom/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rheaadotcom/dsa-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
