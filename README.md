@@ -94,6 +94,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/rheaadotcom/dsa-practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rheaadotcom/dsa-practice/tree/master/0069-sqrtx) |
+| [0282-expression-add-operators](https://github.com/rheaadotcom/dsa-practice/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/rheaadotcom/dsa-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/rheaadotcom/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
@@ -120,6 +121,7 @@
 | [0079-word-search](https://github.com/rheaadotcom/dsa-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rheaadotcom/dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/rheaadotcom/dsa-practice/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0020-valid-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/rheaadotcom/dsa-practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/rheaadotcom/dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/rheaadotcom/dsa-practice/tree/master/0282-expression-add-operators) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rheaadotcom/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rheaadotcom/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
