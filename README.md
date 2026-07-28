@@ -259,6 +259,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0962-maximum-width-ramp](https://github.com/rheaadotcom/dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/rheaadotcom/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rheaadotcom/dsa-practice/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -285,4 +287,12 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/rheaadotcom/dsa-practice/tree/master/0658-find-k-closest-elements) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
