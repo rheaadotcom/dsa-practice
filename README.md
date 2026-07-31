@@ -285,6 +285,7 @@
 | [0069-sqrtx](https://github.com/rheaadotcom/dsa-practice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rheaadotcom/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/rheaadotcom/dsa-practice/tree/master/0278-first-bad-version) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/rheaadotcom/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/rheaadotcom/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -316,4 +317,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rheaadotcom/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/rheaadotcom/dsa-practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
