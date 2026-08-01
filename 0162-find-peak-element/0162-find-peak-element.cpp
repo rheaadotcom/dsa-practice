@@ -3,15 +3,15 @@ public:
     int findPeakElement(vector<int>& nums) {
         int n=nums.size();
 
-        //traverse to check every element 
-        for(int i=0;i<n;i++){
-            //check for the left side
-            bool l=(i==0)|| (nums[i]>=nums[i-1]);
-            //check for right side
-            bool r=(i==n-1)||(nums[i]>=nums[i+1]);
+        int l=0,h=n-1;
+        while(l<h){
+            int mid=l+(h-l)/2;
 
-            if(l && r) return i;
+            if(nums[mid]>nums[mid+1])
+            h=mid;
+            else
+            l=mid+1;
         }
-        return -1;
+        return l;
     }
 };
