@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rheaadotcom/dsa-practice/tree/master/0031-next-permutation) |
@@ -143,6 +144,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/rheaadotcom/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0523-continuous-subarray-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0525-contiguous-array) |
