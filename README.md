@@ -31,6 +31,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/rheaadotcom/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rheaadotcom/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/rheaadotcom/dsa-practice/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/rheaadotcom/dsa-practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/rheaadotcom/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/rheaadotcom/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/rheaadotcom/dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [0877-stone-game](https://github.com/rheaadotcom/dsa-practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rheaadotcom/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -110,6 +112,7 @@
 | [0069-sqrtx](https://github.com/rheaadotcom/dsa-practice/tree/master/0069-sqrtx) |
 | [0282-expression-add-operators](https://github.com/rheaadotcom/dsa-practice/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/rheaadotcom/dsa-practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/rheaadotcom/dsa-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/rheaadotcom/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rheaadotcom/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -332,4 +335,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/rheaadotcom/dsa-practice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/rheaadotcom/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rheaadotcom/dsa-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
