@@ -21,6 +21,7 @@
 | [0162-find-peak-element](https://github.com/rheaadotcom/dsa-practice/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/rheaadotcom/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/rheaadotcom/dsa-practice/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/rheaadotcom/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0414-third-maximum-number](https://github.com/rheaadotcom/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/rheaadotcom/dsa-practice/tree/master/0485-max-consecutive-ones) |
@@ -72,6 +73,7 @@
 | [0031-next-permutation](https://github.com/rheaadotcom/dsa-practice/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rheaadotcom/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/rheaadotcom/dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rheaadotcom/dsa-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rheaadotcom/dsa-practice/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
