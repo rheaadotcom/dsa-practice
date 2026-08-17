@@ -382,5 +382,6 @@
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/rheaadotcom/dsa-practice/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/rheaadotcom/dsa-practice/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rheaadotcom/dsa-practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
