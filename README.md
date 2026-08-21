@@ -33,6 +33,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/rheaadotcom/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rheaadotcom/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/rheaadotcom/dsa-practice/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/rheaadotcom/dsa-practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rheaadotcom/dsa-practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/rheaadotcom/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/rheaadotcom/dsa-practice/tree/master/0905-sort-array-by-parity) |
@@ -328,6 +329,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/rheaadotcom/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/rheaadotcom/dsa-practice/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/rheaadotcom/dsa-practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rheaadotcom/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rheaadotcom/dsa-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Heap (Priority Queue)
