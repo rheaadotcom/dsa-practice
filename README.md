@@ -123,6 +123,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rheaadotcom/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/rheaadotcom/dsa-practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rheaadotcom/dsa-practice/tree/master/0069-sqrtx) |
 | [0282-expression-add-operators](https://github.com/rheaadotcom/dsa-practice/tree/master/0282-expression-add-operators) |
@@ -394,4 +395,12 @@
 | [1148-article-views-i](https://github.com/rheaadotcom/dsa-practice/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/rheaadotcom/dsa-practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rheaadotcom/dsa-practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rheaadotcom/dsa-practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rheaadotcom/dsa-practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
