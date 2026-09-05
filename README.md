@@ -409,4 +409,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rheaadotcom/dsa-practice/tree/master/0002-add-two-numbers) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rheaadotcom/dsa-practice/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rheaadotcom/dsa-practice/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
