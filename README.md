@@ -65,6 +65,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rheaadotcom/dsa-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2090-k-radius-subarray-averages](https://github.com/rheaadotcom/dsa-practice/tree/master/2090-k-radius-subarray-averages) |
 | [2574-left-and-right-sum-differences](https://github.com/rheaadotcom/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rheaadotcom/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rheaadotcom/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rheaadotcom/dsa-practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -188,6 +189,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rheaadotcom/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rheaadotcom/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rheaadotcom/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rheaadotcom/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rheaadotcom/dsa-practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -298,6 +300,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/rheaadotcom/dsa-practice/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rheaadotcom/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -414,6 +417,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rheaadotcom/dsa-practice/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rheaadotcom/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Algorithm X
 |  |
 | ------- |
