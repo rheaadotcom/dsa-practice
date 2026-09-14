@@ -135,6 +135,7 @@
 | [0069-sqrtx](https://github.com/rheaadotcom/dsa-practice/tree/master/0069-sqrtx) |
 | [0282-expression-add-operators](https://github.com/rheaadotcom/dsa-practice/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/rheaadotcom/dsa-practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/rheaadotcom/dsa-practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/rheaadotcom/dsa-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/rheaadotcom/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
@@ -426,4 +427,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rheaadotcom/dsa-practice/tree/master/0037-sudoku-solver) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rheaadotcom/dsa-practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
