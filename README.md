@@ -415,6 +415,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rheaadotcom/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/rheaadotcom/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
