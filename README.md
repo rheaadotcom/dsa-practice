@@ -178,6 +178,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/rheaadotcom/dsa-practice/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/rheaadotcom/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0523-continuous-subarray-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/rheaadotcom/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rheaadotcom/dsa-practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rheaadotcom/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rheaadotcom/dsa-practice/tree/master/0131-palindrome-partitioning) |
@@ -281,6 +283,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/rheaadotcom/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/rheaadotcom/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rheaadotcom/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/rheaadotcom/dsa-practice/tree/master/0904-fruit-into-baskets) |
