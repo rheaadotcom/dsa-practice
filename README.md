@@ -168,6 +168,7 @@
 | [0090-subsets-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rheaadotcom/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/rheaadotcom/dsa-practice/tree/master/0282-expression-add-operators) |
+| [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0904-fruit-into-baskets](https://github.com/rheaadotcom/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rheaadotcom/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rheaadotcom/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rheaadotcom/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rheaadotcom/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -209,6 +211,7 @@
 | [0344-reverse-string](https://github.com/rheaadotcom/dsa-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rheaadotcom/dsa-practice/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rheaadotcom/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rheaadotcom/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rheaadotcom/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -268,6 +271,7 @@
 | [0905-sort-array-by-parity](https://github.com/rheaadotcom/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rheaadotcom/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rheaadotcom/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rheaadotcom/dsa-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -320,6 +324,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0962-maximum-width-ramp](https://github.com/rheaadotcom/dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/rheaadotcom/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -390,6 +395,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rheaadotcom/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
 ## Interactive
 |  |
 | ------- |
