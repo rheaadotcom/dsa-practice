@@ -212,6 +212,7 @@
 | [0282-expression-add-operators](https://github.com/rheaadotcom/dsa-practice/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/rheaadotcom/dsa-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rheaadotcom/dsa-practice/tree/master/0392-is-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rheaadotcom/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rheaadotcom/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -284,6 +285,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rheaadotcom/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rheaadotcom/dsa-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -326,6 +328,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rheaadotcom/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/rheaadotcom/dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
@@ -452,5 +455,6 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rheaadotcom/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
