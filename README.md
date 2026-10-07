@@ -169,6 +169,7 @@
 | [0090-subsets-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rheaadotcom/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/rheaadotcom/dsa-practice/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
@@ -210,6 +211,7 @@
 | [0125-valid-palindrome](https://github.com/rheaadotcom/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rheaadotcom/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/rheaadotcom/dsa-practice/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/rheaadotcom/dsa-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rheaadotcom/dsa-practice/tree/master/0392-is-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rheaadotcom/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -403,6 +405,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rheaadotcom/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
 ## Interactive
 |  |
