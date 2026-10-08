@@ -215,6 +215,7 @@
 | [0344-reverse-string](https://github.com/rheaadotcom/dsa-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rheaadotcom/dsa-practice/tree/master/0392-is-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rheaadotcom/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rheaadotcom/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -332,6 +333,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rheaadotcom/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/rheaadotcom/dsa-practice/tree/master/0962-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -459,5 +461,6 @@
 | [0020-valid-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rheaadotcom/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
