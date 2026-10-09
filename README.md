@@ -219,6 +219,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rheaadotcom/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rheaadotcom/dsa-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rheaadotcom/dsa-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rheaadotcom/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -290,6 +291,7 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rheaadotcom/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rheaadotcom/dsa-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rheaadotcom/dsa-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
@@ -336,6 +338,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rheaadotcom/dsa-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/rheaadotcom/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -462,5 +465,6 @@
 | [0032-longest-valid-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rheaadotcom/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rheaadotcom/dsa-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
