@@ -66,6 +66,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/rheaadotcom/dsa-practice/tree/master/2090-k-radius-subarray-averages) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rheaadotcom/dsa-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/rheaadotcom/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rheaadotcom/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rheaadotcom/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rheaadotcom/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rheaadotcom/dsa-practice/tree/master/3731-find-missing-elements) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rheaadotcom/dsa-practice/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rheaadotcom/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rheaadotcom/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
