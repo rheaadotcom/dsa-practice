@@ -55,6 +55,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rheaadotcom/dsa-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rheaadotcom/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rheaadotcom/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/rheaadotcom/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rheaadotcom/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rheaadotcom/dsa-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -107,6 +108,7 @@
 | [0392-is-subsequence](https://github.com/rheaadotcom/dsa-practice/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/rheaadotcom/dsa-practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rheaadotcom/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rheaadotcom/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -144,6 +146,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/rheaadotcom/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rheaadotcom/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rheaadotcom/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rheaadotcom/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rheaadotcom/dsa-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rheaadotcom/dsa-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -158,6 +161,7 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/rheaadotcom/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rheaadotcom/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -234,6 +238,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rheaadotcom/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rheaadotcom/dsa-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -396,6 +401,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rheaadotcom/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rheaadotcom/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -409,6 +415,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rheaadotcom/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rheaadotcom/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -474,4 +481,20 @@
 | [1021-remove-outermost-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rheaadotcom/dsa-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rheaadotcom/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rheaadotcom/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rheaadotcom/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rheaadotcom/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
