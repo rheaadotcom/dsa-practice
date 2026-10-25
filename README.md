@@ -49,6 +49,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/rheaadotcom/dsa-practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1089-duplicate-zeros](https://github.com/rheaadotcom/dsa-practice/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rheaadotcom/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/rheaadotcom/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rheaadotcom/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rheaadotcom/dsa-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rheaadotcom/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -277,6 +278,7 @@
 | [0079-word-search](https://github.com/rheaadotcom/dsa-practice/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/rheaadotcom/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [1254-number-of-closed-islands](https://github.com/rheaadotcom/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/rheaadotcom/dsa-practice/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
@@ -372,6 +374,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/rheaadotcom/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rheaadotcom/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/rheaadotcom/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rheaadotcom/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
@@ -432,6 +435,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/rheaadotcom/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/rheaadotcom/dsa-practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/rheaadotcom/dsa-practice/tree/master/1254-number-of-closed-islands) |
 ## Interactive
 |  |
 | ------- |
@@ -490,6 +494,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/rheaadotcom/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rheaadotcom/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
