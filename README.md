@@ -238,6 +238,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/rheaadotcom/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rheaadotcom/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rheaadotcom/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -398,6 +399,7 @@
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/rheaadotcom/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rheaadotcom/dsa-practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Tree
 |  |
 | ------- |
@@ -512,4 +514,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rheaadotcom/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rheaadotcom/dsa-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
